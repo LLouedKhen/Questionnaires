@@ -1,0 +1,8 @@
+﻿index,questionText,questionWidth,type,responseWidth,options,layout
+1,Dans quelle mesure votre partenaire satisfait-il vos besoins ?,0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+2,"En général, êtes-vous satisfaite de votre relation ?",0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+3,Comment évaluez-vous votre relation comparée à d’autres ?,0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+4,Est-ce que ça vous arrive de souhaiter de ne jamais vous être engagée dans une telle relation ?,0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+5,Votre relation de couple a-t-elle comblé les attentes que vous aviez au début ?,0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+6,Aimez-vous votre partenaire ?,0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+7,Y a-t-il des problèmes dans votre couple ?,0.5,﻿radio,0.5,"0,1,2,3,4",horiz

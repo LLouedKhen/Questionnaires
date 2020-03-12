@@ -1,0 +1,31 @@
+﻿index,questionText,questionWidth,type,responseWidth,options,layout
+1,Le dentiste fore une de vos dents sans l endormir.,0.5,﻿radio,0.5,"1,2,3,4,5,6,7,8,9,10",horiz
+2,Mes sinus sont bouchés.,0.5,﻿radio,0.5,"1,2,3,4,5,6,7,8,9,10",horiz
+3,Le dentiste examine mes dents au cours d un examen de contrôle.,0.5,﻿radio,0.5,"1,2,3,4,5,6,7,8,9,10",horiz
+4,J ai marché pieds nus sur un morceau de verre tranchant.,0.5,﻿radio,0.5,"1,2,3,4,5,6,7,8,9,10",horiz
+5,Je me mords la langue.,0.5,﻿radio,0.5,"1,2,3,4,5,6,7,8,9,11",horiz
+6,J attrape une poussière dans l œil.,0.5,﻿radio,0.5,"1,2,3,4,5,6,7,8,9,12",horiz
+7,Mes doigts sont coincés dans une portière de voiture.,0.5,﻿radio,0.5,"1,2,3,4,5,6,7,8,9,13",horiz
+8,Je reste couché(e) dans la même position sur un matelas dur pendant une heure.,0.5,﻿radio,0.5,"1,2,3,4,5,6,7,8,9,14",horiz
+9,J ai fait une chute de 2 mètres dans les escaliers.,0.5,﻿radio,0.5,"1,2,3,4,5,6,7,8,9,15",horiz
+10,Je suis piqué(e) par un moustique.,0.5,﻿radio,0.5,"1,2,3,4,5,6,7,8,9,16",horiz
+11,Un médecin examine ma gorge au cours d une consultation de contrôle. ,0.5,﻿radio,0.5,"1,2,3,4,5,6,7,8,9,17",horiz
+12,Je me frappe accidentellement le pouce avec un marteau.,0.5,﻿radio,0.5,"1,2,3,4,5,6,7,8,9,18",horiz
+13,Je fais une indigestion après un repas copieux.,0.5,﻿radio,0.5,"1,2,3,4,5,6,7,8,9,19",horiz
+14,Je me démêle les cheveux avec un peigne.,0.5,﻿radio,0.5,"1,2,3,4,5,6,7,8,9,20",horiz
+15,"Je bouge mon pied qui s est ""endormi"".",0.5,﻿radio,0.5,"1,2,3,4,5,6,7,8,9,21",horiz
+16,Je me suis entaillé(e) la main avec un couteau bien aiguisé.,0.5,﻿radio,0.5,"1,2,3,4,5,6,7,8,9,22",horiz
+17,Je me cogne l orteil contre le pied d une chaise.,0.5,﻿radio,0.5,"1,2,3,4,5,6,7,8,9,23",horiz
+18,Je reçois une injection dans le bras.,0.5,﻿radio,0.5,"1,2,3,4,5,6,7,8,9,24",horiz
+19,Je me cogne le coude et ressens comme une décharge dans la main.,0.5,﻿radio,0.5,"1,2,3,4,5,6,7,8,9,25",horiz
+20,Je soulève une casserole chaude sans me protéger les mains. ,0.5,﻿radio,0.5,"1,2,3,4,5,6,7,8,9,26",horiz
+21,Je renverse de l eau bouillante sur mes mains.,0.5,﻿radio,0.5,"1,2,3,4,5,6,7,8,9,27",horiz
+22,"Mes oreilles se ""débouchent"" au cours d un changement d altitude.",0.5,﻿radio,0.5,"1,2,3,4,5,6,7,8,9,28",horiz
+23,Je renverse du sel sur une coupure.,0.5,﻿radio,0.5,"1,2,3,4,5,6,7,8,9,29",horiz
+24,Je me réveille avec des crampes d estomac.,0.5,﻿radio,0.5,"1,2,3,4,5,6,7,8,9,30",horiz
+25,"Je me faits un ""tour de reins"" en soulevant une charge lourde.",0.5,﻿radio,0.5,"1,2,3,4,5,6,7,8,9,31",horiz
+26,"Je suis ""hors d haleine"" en essayant de rattraper le bus.",0.5,﻿radio,0.5,"1,2,3,4,5,6,7,8,9,32",horiz
+27,Je suis piqué(e) par une guêpe.,0.5,﻿radio,0.5,"1,2,3,4,5,6,7,8,9,33",horiz
+28,Je me suis foulé(e) la cheville.,0.5,﻿radio,0.5,"1,2,3,4,5,6,7,8,9,34",horiz
+29,Je marche pieds nus sur du gravier.,0.5,﻿radio,0.5,"1,2,3,4,5,6,7,8,9,35",horiz
+30,Subitement ma douche devient glacée.,0.5,﻿radio,0.5,"1,2,3,4,5,6,7,8,9,36",horiz

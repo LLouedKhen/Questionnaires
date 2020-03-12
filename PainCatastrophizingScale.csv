@@ -1,0 +1,14 @@
+﻿index,questionText,questionWidth,type,responseWidth,options,layout
+1,J'ai peur qu'il n'y aura pas de fin à la douleur,0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+2,Je sens que je ne peux pas continuer,0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+3,C'est terrible et je pense que ça ne s'améliorera jamais,0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+4,C'est affreux et je sens que c'est plus fort que moi,0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+5,Je sens que je ne peux plus supporter la douleur,0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+6,J'ai peur que la douleur s'empire,0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+7,Je ne fais que penser à d'autres expériences douloureuses,0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+8,"Avec inquiétude, je souhaite que la douleur disparaisse",0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+9,Je ne peux m'empêcher d'y penser,0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+10,Je ne fais que penser à quel point ça fait mal,0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+11,Je ne fais que penser à quel point je veux que la douleur disparaisse,0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+12,Il n'y a rien que je puisse faire pour réduire l'intensité de la douleur,0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+13,Je me demande si quelque chose de grave va se produire,0.5,﻿radio,0.5,"0,1,2,3,4",horiz

@@ -1,0 +1,28 @@
+﻿index,questionText,questionWidth,type,responseWidth,options,layout
+1,Je rêve régulièrement de choses qui pourraient m’arriver. ,0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+2,J’éprouve souvent de la tendresse pour les gens moins chanceux que moi. ,0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+3,Je trouve parfois difficile de voir les choses du point de vue de quelqu’un d’autre. ,0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+4,Il m’arrive de ne rien éprouver pour ceux qui ont des problèmes. ,0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+5,Je m’investis dans les sentiments ressentis par les personnages d’un roman. ,0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+6,Les situations d’urgence provoquent des sentiments d’inquiétude et de malaise en moi. ,0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+7,"D’habitude, je ne suis pas complètement pris(e) par les films que je regarde, je reste objectif(ve) ",0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+8,"Lors d’un désaccord, j’essaie d’écouter le point de vue de chacun avant de prendre une décision. ",0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+9,"Quand je vois une personne dont on a profité, j’ai envie de la protéger. ",0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+10,Je me sens parfois désemparé(e) quand je me trouve au beau milieu d’une situation fortement émotionnel. ,0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+11,J’essaie parfois de mieux comprendre mes amis en imaginant leur perspective. ,0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+12,Il est relativement rare que je me laisse prendre par un bon livre ou un bon film. ,0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+13,"Quand je vois quelqu’un de blessé, j’ai tendance à rester calme. ",0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+14,Je me soucie très peu du malheur des autres. ,0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+15,Si je suis sûr(e) d’avoir raison à propos de quelque chose je ne perds pas mon temps à écouter les arguments des uns et des autres. ,0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+16,"Après avoir regardé un film ou une pièce de théâtre, c’est comme si j’étais l’un des personnages. ",0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+17,Être dans une situation de tension émotionnelle me fait peur. ,0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+18,"Quand je vois quelqu’un être traité de façon injuste, je ne ressens pas beaucoup de pitié pour lui. ",0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+19,D’habitude je suis plutôt efficace face aux situations d’urgence. ,0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+20,"Je suis souvent touché(e), affecté(e) par les événements qui arrivent ",0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+21,"Je crois qu’il y a toujours deux facettes à chaque question ou problème, et j’essaie de les prendre en compte toutes les deux. ",0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+22,"Je me décrirais comme une personne au cœur tendre, plutôt compatissante. ",0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+23,"Quand je regarde un bon film, je peux très facilement me mettre à la place du personnage principal. ",0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+24,J’ai tendance à perdre mon sang-froid dans des situations d’urgence. ,0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+25,Quand je suis en colère contre quelqu’un j’essaie de me mettre à sa place pendant un moment. ,0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+26,"Quand je lis une histoire ou un roman intéressant, j’imagine ce que je ressentirais si les événements de l’histoire m’arrivaient. ",0.5,﻿radio,0.5,"0,1,2,3,4",horiz
+27,"Dans une urgence, quand je vois quelqu’un qui a vraiment besoin d’aide, je m’effondre totalement. ",0.5,﻿radio,0.5,"0,1,2,3,4",horiz
